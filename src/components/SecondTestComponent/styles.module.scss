@@ -1,0 +1,21 @@
+.wrapper {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+
+  .counter-container {
+    font-size: 2rem;
+  }
+
+  .button {
+    width: 40px;
+    border: none;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #dddddd;
+    background-color: #e76565;
+  }
+}
